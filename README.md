@@ -96,6 +96,14 @@ android/key.properties
 android/app/*.jks
 ```
 
+## Téléchargement
+
+Les APK signés sont disponibles dans les [GitHub Releases](https://github.com/tojodevpro-blip/Pointage-mobile/releases/latest).
+
+- `arm64-v8a` : plupart des téléphones Android récents.
+- `armeabi-v7a` : appareils 32 bits plus anciens.
+- `x86_64` : émulateurs et appareils Intel.
+
 ## Documentation
 
 - [Fiche technique](docs/FICHE_TECHNIQUE.pdf)
