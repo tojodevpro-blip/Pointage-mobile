@@ -7,7 +7,7 @@
 | Projet | PointagePro |
 | Version | 1.1.0 |
 | Date | Novembre 2026 |
-| Auteur | [Votre nom] |
+| Auteur | Tojo Nambinina RANDRIAMIFALY |
 | Rôle | Chef de projet / concepteur fonctionnel |
 | Dépôt GitHub | `https://github.com/tojodevpro-blip/Pointage-mobile` |
 | Plateforme | Android 7.0+ |
@@ -187,9 +187,9 @@ lib/
 | Vidéo de démonstration | `[Lien à ajouter]` |
 | Cahier des charges | `docs/CAHIER_DES_CHARGES.pdf` |
 | Guide de livraison | `docs/LIVRAISON.md` |
-| Contact | `[Votre e-mail]` |
+| Contact | `tojo.devpro@gmail.com` |
 
-*Les liens GitHub, la vidéo et le contact sont à compléter avant publication.*
+*Le lien de la vidéo et les captures sont à compléter avant diffusion.*
 
 ## 9. Livraison et état du projet
 
@@ -205,8 +205,8 @@ lib/
 
 ## 10. Checklist avant publication GitHub
 
-- [ ] Remplacer `[Votre nom]`, `[Votre e-mail]` et `[Lien à ajouter]`.
-- [ ] Ajouter les captures réelles de la version 1.1.0.
+- [x] Renseigner l’auteur et le contact.
+- [ ] Ajouter le lien de la vidéo et les captures réelles de la version 1.1.0.
 - [ ] Vérifier que `README.md` présente correctement le projet.
 - [ ] Ne jamais versionner `android/key.properties` ni le keystore `.jks`.
 - [ ] Publier les APK dans **Releases**, pas dans le code source.

@@ -12,6 +12,7 @@ Ce dossier regroupe les documents de référence du projet.
 
 ## Notes
 
-- La fiche technique contient des emplacements réservés aux captures d’écran et aux liens.
+- La fiche technique contient des emplacements réservés aux captures d’écran et au lien vidéo.
+- Les captures sont à déposer dans [`assets/screenshots/`](assets/screenshots/README.md).
 - Les fichiers `key.properties` et les keystores ne doivent jamais être publiés.
 - Les APK de release doivent être déposés dans les releases GitHub, pas dans le code source.

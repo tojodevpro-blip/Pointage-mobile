@@ -127,7 +127,7 @@ La version 1.1.0 est une release logicielle validée : `flutter analyze` sans er
 
 ## Auteur
 
-Projet conçu et piloté par **[Votre nom]**, dans le cadre d’une soutenance et d’un pilote en entreprise.
+Projet conçu et piloté par **Tojo Nambinina RANDRIAMIFALY** — [tojo.devpro@gmail.com](mailto:tojo.devpro@gmail.com), dans le cadre d’une soutenance et d’un pilote en entreprise.
 
 ---
 
