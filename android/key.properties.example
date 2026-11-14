@@ -1,0 +1,6 @@
+# Copier ce fichier vers key.properties et renseigner les valeurs locales.
+# Ne jamais versionner key.properties ni le keystore de release.
+storePassword=your-store-password
+keyPassword=your-key-password
+keyAlias=pointagepro
+storeFile=pointagepro-release.jks
